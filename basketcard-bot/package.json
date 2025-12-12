@@ -1,0 +1,16 @@
+{
+  "name": "basketcard-bot",
+  "version": "1.0.0",
+  "description": "BasketCard League - Discord card game bot (PRO)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "@discordjs/rest": "^1.4.0",
+    "discord-api-types": "^0.37.32",
+    "dotenv": "^16.0.0"
+  }
+}

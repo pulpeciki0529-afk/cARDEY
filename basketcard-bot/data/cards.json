@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Example Common Player",
+    "rarity": "Common",
+    "position": "SG",
+    "off": 30,
+    "def": 20,
+    "spd": 25,
+    "pas": 18,
+    "reb": 10
+  },
+  {
+    "name": "Mamba Limited",
+    "rarity": "Limited",
+    "position": "SG",
+    "off": 95,
+    "def": 88,
+    "spd": 92,
+    "pas": 80,
+    "reb": 60,
+    "event_required": "MambaWeek"
+  }
+]
